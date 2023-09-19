@@ -4,7 +4,9 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "@nrwl/angular": "^16.8.1"
+  },
   "devDependencies": {
     "@nx/js": "16.8.1",
     "@nx/workspace": "16.8.1",
